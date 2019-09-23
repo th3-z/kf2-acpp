@@ -1,6 +1,6 @@
 # Killing Floor 2 Access++
 
-Killing Floor 2 server mod to support Killing Floor 2 Magicked Admin
+Killing Floor 2 server mod to support Killing Floor 2 Magicked Admin. Does not affect ranked status.
 
 # Credits
 
